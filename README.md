@@ -16,5 +16,10 @@ These are the libraries being used in the project
 - `gradio` library for building the user interface: `pip install gradio`
 Please follow the steps in the first cell to install them without errors in colab
 
+## Note
+This model will take 90 minutes to train and evaluate. Please be patient. 
+After training and evaluation, we will get a dataframe which shows us the training loss, evaluation loss, accuracy, f1 score, recall and prediction of each epoch.
+Please go through the powerpoint for further understanding.
+
 
 
