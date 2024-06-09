@@ -19,6 +19,7 @@ Please follow the steps in the first cell to install them without errors in cola
 ## Note
 This model will take 90 minutes to train and evaluate. Please be patient. 
 After training and evaluation, we will get a dataframe which shows us the training loss, evaluation loss, accuracy, f1 score, recall and prediction of each epoch.
+Launch the website, after the running the gradio cell and upload the html file to see the prediction.
 Please go through the powerpoint for further understanding.
 
 
